@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition using TensorFlow
 
-[![License](https://img.shields.io/github/license/yourusername/handwritten-digit-recognition)](LICENSE)
+[![License](https://img.shields.io/github/license/momina02/handwritten-digit-recognition)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-v2.0%2B-blue)](https://www.tensorflow.org/)
 [![Status](https://img.shields.io/badge/status-completed-success)](https://github.com/yourusername/handwritten-digit-recognition)
@@ -20,7 +20,7 @@ This repository contains a TensorFlow-based implementation of a handwritten digi
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/handwritten-digit-recognition.git
+git clone https://github.com/momina02/handwritten-digit-recognition.git
 cd handwritten-digit-recognition
 pip install -r requirements.txt
 ```
